@@ -1,0 +1,11 @@
+../Core/Src/bmp180.c:9:13:bmp180_read	1
+../Core/Src/bmp180.c:14:13:bmp180_write	1
+../Core/Src/bmp180.c:19:12:bmp180_is_ready	1
+../Core/Src/bmp180.c:30:9:bmp180_init	10
+../Core/Src/bmp180.c:109:6:bmp180_get_all	1
+../Core/Src/bmp180.c:116:16:_bmp180_read_ut	1
+../Core/Src/bmp180.c:127:16:_bmp180_read_up	5
+../Core/Src/bmp180.c:160:6:bmp180_get_temperature	3
+../Core/Src/bmp180.c:176:6:bmp180_get_pressure	15
+../Core/Src/bmp180.c:207:6:bmp180_get_altitude	1
+../Core/Src/bmp180.c:218:6:bmp180_set_sea_pressure	1
