@@ -159,7 +159,7 @@ void StartDefaultTask(void *argument)
 	first_alt = 0;
 	for (uint8_t i = 0; i < 500; i++)
 		first_alt += bmp180.altitude;
-	first_alt /= 100;
+	first_alt /= 500;
 
   /* Infinite loop */
   for(;;)
